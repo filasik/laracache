@@ -1,5 +1,5 @@
 {
-    "name": "jeandormehl/laracache",
+    "name": "filasik/laracache",
     "license": "MIT",
     "description": "InterSystems Caché provider for Laravel (ODBC)",
     "keywords": [
